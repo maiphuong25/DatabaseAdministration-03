@@ -1,0 +1,10 @@
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe.config
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.pdb
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.AssemblyReference.cache
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.QuanLySanPham.resources
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.Properties.Resources.resources
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.exe
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.pdb

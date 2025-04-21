@@ -1,0 +1,28 @@
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\bin\Debug\FormMenu.exe.config
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\bin\Debug\FormMenu.exe
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\bin\Debug\FormMenu.pdb
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.csproj.AssemblyReference.cache
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.Properties.Resources.resources
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.csproj.GenerateResource.cache
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.csproj.CoreCompileInputs.cache
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.exe
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.pdb
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.MDIMenu.resources
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.SanPham.resources
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.CTKM.resources
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.KhachHang.resources
+D:\Year 3\Hệ quản trị cơ sở dữ liệu\Code R9\FormMenu\obj\Debug\FormMenu.BanHang.resources
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\bin\Debug\FormMenu.exe.config
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\bin\Debug\FormMenu.exe
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\bin\Debug\FormMenu.pdb
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.csproj.AssemblyReference.cache
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.BanHang.resources
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.CTKM.resources
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.KhachHang.resources
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.MDIMenu.resources
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.Properties.Resources.resources
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.SanPham.resources
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.exe
+D:\TaiLieuHocTap\DBMS\2024-2025\nhom\FormMenu\FormMenu\obj\Debug\FormMenu.pdb
